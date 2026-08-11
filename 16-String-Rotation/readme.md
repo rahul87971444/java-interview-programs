@@ -1,10 +1,10 @@
-# 🔄 String Rotation in Java
+#  String Rotation in Java
 
 Check whether one String is a rotation of another String.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Given two Strings, determine whether one is a rotation of the other.
 
@@ -35,7 +35,7 @@ cdab
 
 ---
 
-## ❌ Example
+##  Example
 
 ```text
 String 1 = "abcd"
@@ -50,7 +50,7 @@ Not Rotation
 
 ---
 
-# 🧠 Important Trick
+#  Important Trick
 
 Suppose:
 
