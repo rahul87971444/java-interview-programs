@@ -1,10 +1,10 @@
-# 🔤 Reverse Words in a String
+# Reverse Words in a String
 
 Reverse the order of words in a sentence without reversing the characters inside each word.
 
 ---
 
-## 📌 Problem
+##  Problem
 
 Input:
 
